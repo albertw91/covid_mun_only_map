@@ -1,0 +1,11 @@
+name: covid_mun
+title:
+username:
+account: albertoflores
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2147484
+bundleId: 6126895
+url: https://albertoflores.shinyapps.io/covid_mun/
+when: 1658629892.30105
+lastSyncTime: 1658629892.30105

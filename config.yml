@@ -1,0 +1,26 @@
+---
+
+data_dir: "data/"
+shp: 
+  link: "https://www.mediafire.com/file/2qh7eytfil4607h/Municipios_2013.shp/file"
+  file_name: "data/Municipios_2013.shp"
+      
+prj:
+  link: "https://www.mediafire.com/file/ms1b6trz67mi7cg/Municipios_2013.prj/file"
+  file_name: "data/Municipios_2013.prj"
+    
+dbf: 
+  link: "https://www.mediafire.com/file/j4vzmgz0vuaqbqm/Municipios_2013.dbf/file"
+  file_name: "data/Municipios_2013.dbf"
+
+shx:
+  link: "https://www.mediafire.com/file/x0qqruhab22dkf1/Municipios_2013.shx/file"
+  file_name: "data/Municipios_2013.shx"
+        
+xml: 
+  link: "https://www.mediafire.com/file/ytzebl0zdno8wsh/Municipios_2013.xml/file"
+  file_name: "data/Municipios_2013.xml"
+    
+csv: 
+  link: "https://www.mediafire.com/file/xhpowrayks6zrq7/200828COVID19MEXICO.csv/file"
+  file_name: "data/200828COVID19MEXICO.csv"
